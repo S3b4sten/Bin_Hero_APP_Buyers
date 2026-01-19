@@ -16,7 +16,7 @@ const INITIAL_PRODUCTS: Product[] = [
     description: 'Retour client, emballage légèrement ouvert mais produit comme neuf. Qualité sonore exceptionnelle garantie.',
     originalPrice: 249,
     category: 'High-Tech',
-    imageUrl: 'https://picsum.photos/id/2/800/800',
+    imageUrl: 'https://sm.pcmag.com/t/pcmag_uk/review/a/apple-airp/apple-airpods-pro-2nd-generation-with-magsafe-charging-case_f9fh.1200.jpg',
     createdAt: new Date(Date.now() - 2 * 24 * 60 * 60 * 1000).toISOString(),
     sellerName: 'Boutique Alpha'
   },
