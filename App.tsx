@@ -26,7 +26,7 @@ const INITIAL_PRODUCTS: Product[] = [
     description: 'Modèle d\'exposition, parfait état de marche. Idéal pour pâtissiers amateurs et professionnels.',
     originalPrice: 499,
     category: 'Cuisine',
-    imageUrl: 'https://picsum.photos/id/11/800/800',
+    imageUrl: 'https://tse4.mm.bing.net/th/id/OIP._b6VcRMm-9GyD0EmJgUbngHaHa?rs=1&pid=ImgDetMain&o=7&rm=3',
     createdAt: new Date(Date.now() - 4 * 24 * 60 * 60 * 1000).toISOString(),
     sellerName: 'Chef Corner'
   },
@@ -36,7 +36,7 @@ const INITIAL_PRODUCTS: Product[] = [
     description: 'Épais et antidérapant. Emballage carton abîmé lors de la livraison, produit intact.',
     originalPrice: 85,
     category: 'Sport',
-    imageUrl: 'https://picsum.photos/id/33/800/800',
+    imageUrl: 'https://www.yogom.fr/wp-content/uploads/2024/01/Mix-tapis-d-eyoga-Yogom-400x400.jpeg',
     createdAt: new Date(Date.now() - 6 * 24 * 60 * 60 * 1000).toISOString(),
     sellerName: 'FitLife Store'
   },
@@ -46,7 +46,7 @@ const INITIAL_PRODUCTS: Product[] = [
     description: 'Scellés intacts, petite griffure sur la boîte. Un classique pour tous les collectionneurs.',
     originalPrice: 160,
     category: 'Jeux',
-    imageUrl: 'https://picsum.photos/id/44/800/800',
+    imageUrl: 'https://th.bing.com/th/id/R.04ba8bc6b3e835e6e102107567f60c56?rik=70JFYJOkUlAFiQ&pid=ImgRaw&r=0',
     createdAt: new Date().toISOString(),
     sellerName: 'Toy Palace'
   },
@@ -56,7 +56,7 @@ const INITIAL_PRODUCTS: Product[] = [
     description: 'Café de qualité professionnelle. Légère rayure sur le bac d\'égouttage.',
     originalPrice: 650,
     category: 'Cuisine',
-    imageUrl: 'https://picsum.photos/id/425/800/800',
+    imageUrl: 'https://choicemart.co.uk/wp-content/uploads/2020/10/sage-espresso-machine.jpg',
     createdAt: new Date(Date.now() - 1 * 24 * 60 * 60 * 1000).toISOString(),
     sellerName: 'Chef Corner'
   },
@@ -66,7 +66,7 @@ const INITIAL_PRODUCTS: Product[] = [
     description: 'Vélo de montagne robuste. Retour pour erreur de taille.',
     originalPrice: 450,
     category: 'Sport',
-    imageUrl: 'https://picsum.photos/id/146/800/800',
+    imageUrl: 'https://vendre-son-velo.com/wp-content/uploads/listing-uploads/cover/2024/12/velo.jpg',
     createdAt: new Date(Date.now() - 3 * 24 * 60 * 60 * 1000).toISOString(),
     sellerName: 'FitLife Store'
   },
@@ -76,7 +76,7 @@ const INITIAL_PRODUCTS: Product[] = [
     description: 'Modèle de démonstration, batterie à 100%. État comme neuf.',
     originalPrice: 1299,
     category: 'High-Tech',
-    imageUrl: 'https://picsum.photos/id/160/800/800',
+    imageUrl: 'https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/028e0308-738c-4faa-a82f-23d17c19709a_2310x1300.jpeg',
     createdAt: new Date(Date.now() - 5 * 24 * 60 * 60 * 1000).toISOString(),
     sellerName: 'Boutique Alpha'
   },
@@ -86,7 +86,7 @@ const INITIAL_PRODUCTS: Product[] = [
     description: 'Ergonomie premium pour le jeu. Boîte endommagée au transport.',
     originalPrice: 380,
     category: 'Mobilier',
-    imageUrl: 'https://picsum.photos/id/201/800/800',
+    imageUrl: 'https://www.topchaisegamer.com/wp-content/uploads/2021/02/IMG_20210203_183049-1-768x675.jpg',
     createdAt: new Date(Date.now() - 2 * 24 * 60 * 60 * 1000).toISOString(),
     sellerName: 'Pro Gamer Gear'
   },
@@ -96,7 +96,7 @@ const INITIAL_PRODUCTS: Product[] = [
     description: 'Boîtier nu, très peu de déclenchements. Retour client rapide.',
     originalPrice: 1800,
     category: 'Photo',
-    imageUrl: 'https://picsum.photos/id/250/800/800',
+    imageUrl: 'https://alpinemag.fr/wp-content/uploads/2019/04/jocelynchavy_sonyA7III-2358-1080x720.jpg',
     createdAt: new Date(Date.now() - 4 * 24 * 60 * 60 * 1000).toISOString(),
     sellerName: 'Focus Optique'
   },
@@ -106,7 +106,7 @@ const INITIAL_PRODUCTS: Product[] = [
     description: 'Style vintage, son puissant. Emballage scellé mais carton taché.',
     originalPrice: 220,
     category: 'Audio',
-    imageUrl: 'https://picsum.photos/id/445/800/800',
+    imageUrl: 'https://www.meilleure-innovation.com/wp-content/uploads/2023/03/marshall-middleton-enceinte-bluetooth.png',
     createdAt: new Date(Date.now() - 6 * 24 * 60 * 60 * 1000).toISOString(),
     sellerName: 'Boutique Alpha'
   }
